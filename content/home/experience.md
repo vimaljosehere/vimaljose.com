@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Lead Data Scientist"
   company = "DXC Technology"
-  company_url = ""
+  company_url = "https://www.dxc.technology/"
   location = ""
   date_start = "2019-01-01"
   date_end = ""
@@ -53,7 +53,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Associate Consultant"
-  company = "Infosys Consulting"
+  company = "Infosys"
   company_url = "https://www.infosys.com/"
   location = ""
   date_start = "2014-08-01"
