@@ -18,18 +18,18 @@ subtitle = ""
   icon = "brain"
   icon_pack = "fas"
   name = "Data Science and AI"
-  description = "Machine Learning with both Python and R"
+  description = "65%"
   
 [[feature]]
   icon = "cloud-download-alt"
   icon_pack = "fas"
   name = "Big data, Cloud and DW"
-  description = "Statistical Modelling Techniques"  
+  description = "25%"  
   
 [[feature]]
   icon = "users"
   icon_pack = "fas"
-  name = "Team and Stakeholder Management"
+  name = "Team+Stakeholder Management"
   description = "10%"
 
 # Uncomment to use emoji icons.
