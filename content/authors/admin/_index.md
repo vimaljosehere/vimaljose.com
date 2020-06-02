@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Vimal Jose (Martin)
+title: Vimal Jose
 
 # Username (this should match the folder name)
 authors:
