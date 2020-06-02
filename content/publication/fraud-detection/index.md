@@ -1,4 +1,4 @@
-title:  the title of your publication
+title:  "the title of your publication"
 date: "2019-02-03"
 publication_types:7
 # use the following legend to specify the type of your publication, e.g. "1" for conference proceedings:
@@ -11,6 +11,5 @@ publication_types:7
 # 6 = Book section
 # 7 = Thesis (v4.2+ required)
 # 8 = Patent (v4.2+ required)
-publication: where your title was published
-abstract: the summary of your publication
-Also this part is important as well
+publication: "where your title was published"
+abstract: "the summary of your publication"
