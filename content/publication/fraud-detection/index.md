@@ -15,8 +15,8 @@ publishDate: "2020-06-01T00:00:00Z"
 publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: *Liverpool John Moore's University school of Computer Science*
+publication_short: In *LJMU CS Journal*
 
 abstract: A novel approach for early stage fraud detection by building a one-class classifier (OCC) for non-fraud users. We’ll be making use of an LSTM-autoencoder to convert the actor history, whenever available into user representations in a fixed dimensional feature space. These user representations will be used for generating the user representations of malicious users by a complimentary GAN generator and the GAN discriminator will be used as one of the final classifiers.
 
@@ -28,21 +28,15 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+- name: Full Thesis
+  url: Fraud_Detection.pdf
+url_pdf: Fraud_Detection.pdf
+url_slides: Thesis_Presentation.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 
   focal_point: ""
   preview_only: false
 
