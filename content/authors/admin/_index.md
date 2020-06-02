@@ -25,7 +25,7 @@ interests:
 - Statistical Modelling
 - Data Engineering
 - Data Visualization and EDA
-- Cloud and Datawarehouse design  
+- Cloud and DW design  
 - Creating Data-Driven Teams
 
 
