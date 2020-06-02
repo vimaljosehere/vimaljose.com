@@ -7,7 +7,7 @@ date: 2018-06-20T00:00:38.881Z
 date_end: 2018-06-19T14:00:00.000Z
 all_day: false
 links: []
-event: ".Influence: How to influence people with NLP"
+event: "Influence: How to influence people with NLP"
 event_url: http://www.google.com
 publishDate: 2020-06-02T11:26:38.996Z
 draft: false
