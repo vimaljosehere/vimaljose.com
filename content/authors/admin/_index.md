@@ -59,7 +59,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 -  icon: cv
    icon_pack: ai
-   link: files/cv.pdf
+   link: https://github.com/vimaljosehere/vimaljose.com/raw/master/files/2020.Vimal.Jose.9Yrs.LeadDataScientist.Py.R.AWS.Tableau.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
