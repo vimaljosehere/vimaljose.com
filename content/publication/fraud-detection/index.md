@@ -18,10 +18,10 @@ publication_types: ["7"]
 publication: In *Liverpool John Moores University School of Computer Science*
 publication_short: In *LJMU CS Journal*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: A novel approach for early stage fraud detection by building a one-class classifier (OCC) for non-fraud users. We will be making use of an LSTM-autoencoder to convert the actor history, whenever available into user representations in a fixed dimensional feature space. These user representations will be used for generating the user representations of malicious users by a complimentary GAN generator and the GAN discriminator will be used as one of the final classifiers.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A novel approach for early stage fraud detection by building a one-class classifier (OCC) for non-fraud users. We will be making use of an LSTM-autoencoder to convert the actor history, whenever available into user representations in a fixed dimensional feature space. These user representations will be used for generating the user representations of malicious users by a complimentary GAN generator and the GAN discriminator will be used as one of the final classifiers.
 
 tags:
 - Source Themes
