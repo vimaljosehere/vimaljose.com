@@ -7,7 +7,12 @@ subtitle: “Data culture” is a relatively new concept which is becoming pivot
   empirical data proof. In other words, it implies that decisions are made based
   on data evidence, not on gut instinct.
 date: 2020-06-02T16:26:26.722Z
-summary: .
+summary: “Data culture” is a relatively new concept which is becoming pivotal
+  nowadays, when organizations develop more progressive digital business
+  strategies and apply meaning to big data. It refers to a workplace environment
+  that employs a consistent approach to decision-making through emphatic and
+  empirical data proof. In other words, it implies that decisions are made based
+  on data evidence, not on gut instinct.
 draft: false
 featured: false
 image:
