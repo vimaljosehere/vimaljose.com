@@ -31,8 +31,6 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: Fraud_Detection.pdf
 url_pdf: Fraud_Detection.pdf
 
 # Featured image
