@@ -18,7 +18,7 @@ organizations:
   url: "https://www.dxc.technology/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Lead Data Scientist at DXC, pursuing my vision of reimagining Analytics teams to create a data-driven culture and a metric-driven business. I focus on converting business problem statements into Analytics and Machine Learning use cases and building them with Python, Cloud and Big Data solutions to improve company baselines, customer experience and business understanding.
+bio: I am a Lead Data Scientist at DXC, pursuing my vision of reimagining Analytics teams to create a data-driven culture and metric-driven businesses. I focus on converting business problem statements into Analytics and Machine Learning use cases and then build them with Python, Cloud and Big Data solutions to improve company baselines, customer experience and business understanding.
 
 interests:
 - Data Science and AI
@@ -75,4 +75,4 @@ I am a Lead Data Scientist at DXC, pursuing my vision of reimagining Analytics t
 
 My lifelong fascination with artificial intelligence and data-driven decision making led me to become an innovator in research on anomaly detection systems and classification tasks with a special focus on building teams driven by data and guided by process.
 
-I've always enjoyed teaching data analytics within and outside my organizations, and enjoy working on pet projects using Python, AWS, Big Data and Raspberry Pi. In my spare time, I enjoy doing public speaking with Toastmasters, scuba diving and chess. 
+I've always enjoyed teaching data analytics inside and outside my organizations, and often work on pet projects using Python, AWS, Big Data and Raspberry Pi. In my spare time, I enjoy public speaking with Toastmasters, Scuba Diving and playing chess. 
