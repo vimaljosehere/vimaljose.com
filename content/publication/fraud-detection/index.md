@@ -24,13 +24,16 @@ abstract: A novel approach for early stage fraud detection by building a one-cla
 summary: A novel approach for early stage fraud detection by building a one-class classifier (OCC) for non-fraud users. We will be making use of an LSTM-autoencoder to convert the actor history, whenever available into user representations in a fixed dimensional feature space. These user representations will be used for generating the user representations of malicious users by a complimentary GAN generator and the GAN discriminator will be used as one of the final classifiers.
 
 tags:
-- Source Themes
+- GAN
+- Fraud Detection
+- OCC
+- LSTM
 featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+  url: Fraud_Detection.pdf
+url_pdf: Fraud_Detection.pdf
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
