@@ -21,22 +21,24 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Data Science and Artificial Intelligence
-- Statistical Modelling Techniques
+- Data Science and AI
+- Statistical Modelling
 - Data Engineering
-- Data Visualization
-- Creating Data-Driven Teams and Organizations
+- Data Visualization and EDA
+- DW and Cloud(AWS) Architecture 
+- Creating Data-Driven Teams
+
 
 education:
   courses:
-  - course: MBA in Marketing
+  - course: MBA in Finance
     institution: Deakin University, Melbourne
     year: 
   - course: MS in Data Science
     institution: Liverpool John Moore's University, London
     year: 
-  - course: B.Engg in Computer Science
-    institution: Mahatma Gandhi University, Kottayam
+  - course: B.Tech in Computer Science
+    institution: Mahatma Gandhi University, Kerala
     year: 
 
 # Social/Academic Networking
