@@ -28,7 +28,7 @@ tags:
 - Fraud Detection
 - OCC
 - LSTM
-featured: false
+featured: true
 
 links:
 url_pdf: Fraud_Detection.pdf
