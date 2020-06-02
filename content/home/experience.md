@@ -24,49 +24,66 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2019-01-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = ""
+#  description = """
+#  Responsibilities include:
+#  
+#  * Analysing
+#  * Modelling
+#  * Deploying
+#  """
 
-[[experience]]
-  title = "Lead Analyst"
-  company = "Flipkart (acquired by Walmart)"
-  company_url = ""
-  location = ""
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+# [[experience]]
+#  title = "Lead Analyst"
+#  company = "Flipkart (acquired by Walmart)"
+#  company_url = ""
+#  location = ""
+#  date_start = "2016-01-01"
+#  date_end = "2016-12-31"
+#  description = """Taught electronic engineering and researched semiconductor physics."""
 
 [[experience]]
   title = "Consultant - Advanced Analytics"
-  company = "Dell EMC"
+  company = "Dell EMC Consulting"
   company_url = ""
   location = ""
   date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_end = "2018-12-31"
+  description = ""
 
 [[experience]]
   title = "Associate Consultant"
   company = "Infosys Consulting"
   company_url = ""
   location = ""
-  date_start = "2016-01-01"
+  date_start = "2014-08-01"
   date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = ""
+
+[[experience]]
+  title = "Founder"
+  company = "DataExcite"
+  company_url = ""
+  location = ""
+  date_start = "2014-01-01"
+  date_end = "2014-08-01"
+  description = ""
 
 [[experience]]
   title = "Software Engineer"
   company = "Accenture"
   company_url = ""
   location = ""
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2011-01-01"
+  date_end = "2014-01-29"
+  description = ""
 
-
+[[experience]]
+  title = "Co-Founder"
+  company = "r4radio.com"
+  company_url = "http://r4radio.com"
+  location = ""
+  date_start = "2008-04-01"
+  date_end = "2011-07-01"
+  description = ""
 +++
