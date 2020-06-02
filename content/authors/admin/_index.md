@@ -18,14 +18,18 @@ organizations:
   url: "https://www.dxc.technology/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a Lead Data Scientist at DXC, pursuing my vision of reimagining Analytics teams to create a data-driven culture and a metric-driven business. I focus on converting business problem statements into Analytics and Machine Learning use cases and building them with Python, Cloud and Big Data solutions to improve company baselines, customer experience and business understanding.
+
+My lifelong fascination with artificial intelligence and data-driven decision making led me to become an innovator in research on anomaly detection systems and classification tasks with a special focus on building teams driven by data and guided by process.
+
+I've always enjoyed teaching data analytics within and outside my organizations, and enjoy working on pet projects using Python, AWS, Big Data and Raspberry Pi. In my spare time, I enjoy doing public speaking with Toastmasters, scuba diving and chess. 
 
 interests:
 - Data Science and AI
 - Statistical Modelling
 - Data Engineering
 - Data Visualization and EDA
-- DW and Cloud 
+- Cloud and DW design  
 - Creating Data-Driven Teams
 
 
@@ -49,15 +53,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.linkedin.com/in/vimaljosehere/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/vimaljosehere
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
