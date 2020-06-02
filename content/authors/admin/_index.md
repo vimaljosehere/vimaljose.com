@@ -20,10 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I am a Lead Data Scientist at DXC, pursuing my vision of reimagining Analytics teams to create a data-driven culture and a metric-driven business. I focus on converting business problem statements into Analytics and Machine Learning use cases and building them with Python, Cloud and Big Data solutions to improve company baselines, customer experience and business understanding.
 
-My lifelong fascination with artificial intelligence and data-driven decision making led me to become an innovator in research on anomaly detection systems and classification tasks with a special focus on building teams driven by data and guided by process.
-
-I've always enjoyed teaching data analytics within and outside my organizations, and enjoy working on pet projects using Python, AWS, Big Data and Raspberry Pi. In my spare time, I enjoy doing public speaking with Toastmasters, scuba diving and chess. 
-
 interests:
 - Data Science and AI
 - Statistical Modelling
@@ -75,4 +71,8 @@ user_groups:
 - Visitors
 ---
 
-Hi, I am Vimal Jose, a seasoned analytics professional with 9 years of experience in Data Science, Python, R, Tableau, SQL, AWS Cloud, Data modelling, Big data and agile. Winner of the ACE, Best IC and Platinum awards and consistently rated in the top 5%.
+I am a Lead Data Scientist at DXC, pursuing my vision of reimagining Analytics teams to create a data-driven culture and a metric-driven business. I focus on converting business problem statements into Analytics and Machine Learning use cases and building them with Python, Cloud and Big Data solutions to improve company baselines, customer experience and business understanding.
+
+My lifelong fascination with artificial intelligence and data-driven decision making led me to become an innovator in research on anomaly detection systems and classification tasks with a special focus on building teams driven by data and guided by process.
+
+I've always enjoyed teaching data analytics within and outside my organizations, and enjoy working on pet projects using Python, AWS, Big Data and Raspberry Pi. In my spare time, I enjoy doing public speaking with Toastmasters, scuba diving and chess. 
