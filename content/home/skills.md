@@ -21,15 +21,15 @@ subtitle = ""
   description = "Machine Learning with both Python and R"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "cloud-download-alt"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Big data, Cloud and DW"
   description = "Statistical Modelling Techniques"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "users"
   icon_pack = "fas"
-  name = "Photography"
+  name = "Team and Stakeholder Management"
   description = "10%"
 
 # Uncomment to use emoji icons.
