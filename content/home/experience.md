@@ -44,7 +44,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Consultant - Advanced Analytics"
-  company = "Dell EMC Consulting"
+  company = "Dell EMC"
   company_url = "https://www.delltechnologies.com/"
   location = ""
   date_start = "2016-01-01"
