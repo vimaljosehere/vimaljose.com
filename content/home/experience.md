@@ -38,8 +38,8 @@ date_format = "Jan 2006"
 #  company = "Flipkart (acquired by Walmart)"
 #  company_url = ""
 #  location = ""
-#  date_start = "2016-01-01"
-#  date_end = "2016-12-31"
+#  date_start = "2018-04-02"
+#  date_end = "2018-12-30"
 #  description = """Taught electronic engineering and researched semiconductor physics."""
 
 [[experience]]
@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   company_url = "https://www.delltechnologies.com/"
   location = ""
   date_start = "2016-01-01"
-  date_end = "2018-12-31"
+  date_end = "2018-04-01"
   description = ""
 
 [[experience]]
@@ -70,7 +70,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[experience]]
-  title = "Co-Founder, CTO"
+  title = "Co-Founder, CTO, Part-time Radio Jockey"
   company = "r4radio.com"
   company_url = "http://r4radio.com"
   location = ""
