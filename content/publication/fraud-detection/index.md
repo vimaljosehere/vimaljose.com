@@ -31,7 +31,7 @@ tags:
 featured: true
 
 links:
-url_pdf: Fraud_Detection.pdf
+url_pdf: https://github.com/vimaljosehere/vimaljose.com/raw/master/content/publication/fraud-detection/Fraud_Detection.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
