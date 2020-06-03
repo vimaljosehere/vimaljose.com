@@ -35,12 +35,12 @@ date_format = "Jan 2006"
 
 # [[experience]]
 #  title = "Lead Analyst"
-#  company = "Flipkart (acquired by Walmart)"
+#  company = "Flipkart (part of Walmart)"
 #  company_url = ""
 #  location = ""
 #  date_start = "2018-04-02"
 #  date_end = "2018-12-30"
-#  description = """Taught electronic engineering and researched semiconductor physics."""
+#  description = ""
 
 [[experience]]
   title = "Consultant - Advanced Analytics"
