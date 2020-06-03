@@ -13,7 +13,7 @@ summary: “Data culture” is a relatively new concept which is becoming pivota
   that employs a consistent approach to decision-making through emphatic and
   empirical data proof. In other words, it implies that decisions are made based
   on data evidence, not on gut instinct.
-draft: false
+draft: true
 featured: false
 image:
   filename: featured
