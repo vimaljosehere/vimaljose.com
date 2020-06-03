@@ -31,13 +31,16 @@ interests:
 
 education:
   courses:
-  - course: MBA in Finance
+  - course: MBA in Finance (Ongoing)
     institution: Deakin University, Melbourne
     year: 
   - course: MS in Data Science
     institution: Liverpool John Moore's University, London
     year: 
-  - course: B.Tech in Computer Science
+  - course: PG Diploma in Data Analytics
+    institution: IIIT, Bangalore
+    year: 
+- course: B.Tech in Computer Science
     institution: Mahatma Gandhi University, Kerala
     year: 
 
@@ -73,6 +76,6 @@ user_groups:
 
 I am a Lead Data Scientist at DXC, pursuing my vision of reimagining Analytics teams to create a data-driven culture and a metric-driven business. I focus on converting business problem statements into Analytics and Machine Learning use cases and building them with Python, Cloud and Big Data solutions to improve company baselines, customer experience and business understanding.
 
-My lifelong fascination with artificial intelligence and data-driven decision making led me to become an innovator in research on anomaly detection systems and classification tasks with a special focus on building teams driven by data and guided by process.
+My lifelong fascination with artificial intelligence and data-driven decision making led me to become an innovator on anomaly detection systems and classification tasks with a special focus on building teams driven by data and guided by process.
 
-I've always enjoyed teaching data analytics inside and outside my organizations, and often work on pet projects using Python, AWS, Big Data and Raspberry Pi. In my spare time, I enjoy public speaking with Toastmasters, Scuba Diving and playing chess. 
+I've always enjoyed teaching data analytics inside and outside my organizations, and often work on pet projects using Python, AWS, Big Data and Raspberry Pi. In my spare time, I enjoy public speaking with Toastmasters, reading about Psychology, Scuba Diving and playing chess. 
