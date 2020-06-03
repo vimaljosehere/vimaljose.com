@@ -30,7 +30,7 @@ tags:
 featured: false
 
 links:
-url_pdf: MyWeb-A.Novel.Approach.for.the.Personalisation.Of.World.Wide.Web.by.Learning.User.Preferences.pdf
+url_pdf: https://github.com/vimaljosehere/vimaljose.com/raw/master/content/publication/myweb/MyWeb-A.Novel.Approach.for.the.Personalisation.Of.World.Wide.Web.by.Learning.User.Preferences.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
