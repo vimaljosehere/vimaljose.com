@@ -40,7 +40,7 @@ education:
   - course: PG Diploma in Data Analytics
     institution: IIIT, Bangalore
     year: 
-- course: B.Tech in Computer Science
+  - course: B.Tech in Computer Science
     institution: Mahatma Gandhi University, Kerala
     year: 
 
