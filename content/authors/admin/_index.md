@@ -79,3 +79,5 @@ I am a Lead Data Scientist at DXC, pursuing my vision of reimagining Analytics t
 My lifelong fascination with artificial intelligence and data-driven decision making led me to become an innovator on anomaly detection systems and classification tasks with a special focus on building teams driven by data and guided by process.
 
 I've always enjoyed teaching data analytics inside and outside my organizations, and often work on pet projects using Python, AWS, Big Data and Raspberry Pi. In my spare time, I enjoy public speaking with Toastmasters, reading about Psychology, Scuba Diving and playing chess. 
+
+If you are a not-for-profit organization trying to improve education or social mobility for the under-privileged, with lots of data, I am available for pro-bono consulting. 
